@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Ấu dia bae",
     introTitle: 'Trường Giang',
-    introDesc: `Giang đz,
+    introDesc: 'Giang đz',
     btnIntro: '^^HiHi^^',
     title: 'Hồi xưa xe ngựa thì đi rất lâu, thư thì đưa rất chậm nên cả đời chỉ đủ yêu một người, I love you 3000',
     desc: 'Làm ng iu tớ nhé <33',
